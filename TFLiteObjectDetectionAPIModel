@@ -214,7 +214,7 @@ public class TFLiteObjectDetectionAPIModel implements ClassifierTwo {
 
 
 
-       List<String> foodList = Arrays.asList("sabahTepsi", "aksamTepsi");
+       List<String> foodList = Arrays.asList("breakfast tray", "dinner tray");
 
 
         String label = "traytype: " + foodList.get(foodInd);
